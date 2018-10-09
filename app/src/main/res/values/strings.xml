@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Grid Layout</string>
+    <string name="hello">Hello</string>
+    <string name="how_are_you">How areYou?</string>
+    <string name="please">please</string>
+    <string name="sorry">Sorry</string>
+    <string name="get_lost">get lost</string>
+    <string name="are_you_crazy">Are you crazy?</string>
+</resources>
